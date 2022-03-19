@@ -1,2 +1,3 @@
 # core
-Codeigniter 3
+folder App : untuk PIC 
+dan Selain Folder App : untuk programmer
